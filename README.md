@@ -43,3 +43,10 @@
 
 <img src = 'https://github.com/user-attachments/assets/99bde46b-9a28-4adb-ab3c-49e7043a3fa5' width=300/>
 
+Работа с добавлением товаров в корзину и удалением их
+
+https://github.com/user-attachments/assets/a75b23ad-d3df-4da7-a070-c5226b7505a9
+
+Работа с редактированием страницы "Профиль"
+
+https://github.com/user-attachments/assets/e18f4f44-b545-4714-a579-6406744990d1
