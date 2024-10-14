@@ -37,7 +37,7 @@ class _BasketPageState extends State<BasketPage> {
       context: context,
       builder: (context) => AlertDialog(
         title: const Center(
-          child: Text('Удалить игру из коризины',
+          child: Text('Удалить игру из корзины',
               style: TextStyle(
                 color: Color.fromRGBO(76, 23, 0, 1.0),
                 fontWeight: FontWeight.w500,
